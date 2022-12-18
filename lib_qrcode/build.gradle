@@ -35,7 +35,7 @@ dependencies {
     implementation 'me.luzhuo.android:lib_core:2.5.89'
     implementation 'me.luzhuo.android:lib_common_ui:1.1.29'
 
-    compileOnly 'com.huawei.hms:scanplus:2.1.0.300' // 无法在国外应用市场上架
+    compileOnly 'com.huawei.hms:scanplus:2.1.0.300'
 }
 apply from: 'maven.gradle'
 apply from: 'mavenCentral.gradle'

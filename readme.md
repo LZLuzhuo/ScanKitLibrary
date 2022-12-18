@@ -4,7 +4,7 @@
 
 ```groovy
 implementation 'me.luzhuo.android:lib_qrcode:1.0.0'  
-implementation 'com.huawei.hms:scanplus:2.1.0.300' // 目前仅支持华为的ScanPlus
+implementation 'com.huawei.hms:scanplus:2.1.0.300'
 ```
 
 # 2. 使用文档
